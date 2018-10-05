@@ -78,4 +78,6 @@ private:
   std::ostream *m_ostr;
 };
 
+//aaa
+
 #endif /*  __TAI_SHELL_H__ */
